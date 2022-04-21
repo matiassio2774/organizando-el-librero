@@ -1,0 +1,22 @@
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\bin\Debug\Librero1.exe.config
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\bin\Debug\Librero1.exe
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\bin\Debug\Librero1.pdb
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\bin\Debug\Librero1.xml
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\obj\Debug\Librero1.vbprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\obj\Debug\Librero1.Resources.resources
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\obj\Debug\Librero1.vbproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\obj\Debug\Librero1.vbproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\obj\Debug\Librero1.exe
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\obj\Debug\Librero1.xml
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1\Librero1\obj\Debug\Librero1.pdb
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\bin\Debug\Librero1.exe.config
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\bin\Debug\Librero1.exe
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\bin\Debug\Librero1.pdb
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\bin\Debug\Librero1.xml
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\obj\Debug\Librero1.vbprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\obj\Debug\Librero1.Resources.resources
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\obj\Debug\Librero1.vbproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\obj\Debug\Librero1.vbproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\obj\Debug\Librero1.exe
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\obj\Debug\Librero1.xml
+C:\Users\Matias\Desktop\Escuela 2022\Programación sobre Redes\Librero1 Sio Matias_6º6ª\Librero1\obj\Debug\Librero1.pdb
